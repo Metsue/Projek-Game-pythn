@@ -1,3 +1,6 @@
+#Copyright code by Metsue (Indraa)
+#Jangan lupa tag ig @mhmmd_.indra
+
 import cv2
 import pyautogui
 import numpy as np
